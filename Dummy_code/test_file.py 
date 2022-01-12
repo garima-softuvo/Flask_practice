@@ -1,0 +1,3 @@
+import os
+
+path = os.listdir(r"../home/softuvo/Garima/Flask Practice/Flask_practice/files")
